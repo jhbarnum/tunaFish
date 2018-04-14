@@ -18,6 +18,11 @@ const bookmarkSeed = [
     link: "https://www.youtube.com/watch?v=lDK9QqIzhwk"
   },
   {
+    title: "Give It Away",
+    artist: "Red Hot Chili Peppers",
+    link: "https://www.youtube.com/watch?v=Mr_uHJPUlO8"
+  },
+  {
     title: "Gypsy Road",
     artist: "Cinderella",
     link: "https://www.youtube.com/watch?v=6j7E7pvLxmI"
